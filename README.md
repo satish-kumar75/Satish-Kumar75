@@ -2,7 +2,6 @@
   <img src="https://media4.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=790b761111f03d8dd7c4b9e4394ef3136b2f7b72e82e860e&rid=giphy.gif&ct=s" width="300"/>
 </div>
 <h1 align="center">Namaste 🙏 I'm Satish Kumar </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishkumar75&label=Profile%20views&color=0e75b6&style=flat" alt="satishkumar75" /> </p>
 
