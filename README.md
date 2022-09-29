@@ -26,7 +26,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar75&show_icons=true&locale=en&layout=compact" alt="satishkumar75" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=satishkumar75&show_icons=true&locale=en" alt="satishkumar75" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=satishkumar75&show_icons=true&locale=en" alt="satishkumar75" /></p>
 
 
 
