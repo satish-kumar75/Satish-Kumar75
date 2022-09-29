@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar75&show_icons=true&locale=en&layout=compact" alt="satishkumar75" /></p>
 
-📈 my github stats
+<p> 📈 my github stats </p>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=satishkumar75&show_icons=true&locale=en" alt="satishkumar75" /></p>
 
