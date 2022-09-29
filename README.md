@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **satishk404456@gmail.com**
 
-- ⚡ Fun fact **If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
