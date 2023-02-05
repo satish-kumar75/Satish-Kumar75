@@ -29,9 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SatishKumar75&&show_icons=true&theme=graywhite" align="right" width="48%">
 </p>
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/SatishKumar75/SatishKumar75/master/charts/bar_graph.png) 
 
 ![Visitor Count](https://profile-counter.glitch.me/{SatishKumar75}/count.svg)
 
