@@ -25,9 +25,12 @@
 ## Github Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishKumar75&layout=compact&theme=white" alt="saurabh-kud" width=48%" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishKumar75&layout=compact&theme=white" alt="SatishKumar75" width="48%" >
   <img src="https://github-readme-stats.vercel.app/api?username=SatishKumar75&&show_icons=true&theme=graywhite" align="right" width="48%">
 </p>
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatishKumar75&theme=solarized_dark" />
+ </p>
 
 
 
