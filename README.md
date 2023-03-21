@@ -3,8 +3,6 @@
 </div>
 <h1 align="center">Namaste 🙏 I'm Satish Kumar </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishkumar75&label=Profile%20views&color=0e75b6&style=flat" alt="satishkumar75" /> </p>
-
 <p align="left"> <a href="https://twitter.com/its_satish0" target="blank"><img src="https://img.shields.io/twitter/follow/its_satish0?logo=twitter&style=for-the-badge" alt="its_satish0" /></a> </p>
 
 - 🌱 I’m currently learning **HTML & CSS**
